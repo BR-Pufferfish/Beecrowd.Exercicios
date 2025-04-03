@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd.Iniciante.1001", "Beecrowd.Iniciante.1001\Beecrowd.Iniciante.1001.csproj", "{77774B91-C8DF-49A2-A18B-6229256A1B2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd.Iniciante", "Beecrowd.Iniciante.1001\Beecrowd.Iniciante.csproj", "{77774B91-C8DF-49A2-A18B-6229256A1B2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
